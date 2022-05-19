@@ -1,1 +1,2 @@
 # Data-Science-Project-Credit-Card-Fraud-Detection
+The Credit Card Transaction Data have 29 features and 284k+ samples. In the project, I first used logistic regression and reached 68% accuracy. Later, I standardized the amount of transferred money, oversampled the data and implemented a MLPC classifier which relies on an underlying Neural Network to train and predict the fraud transaction. The accuracy boosted to 97%
